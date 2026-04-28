@@ -1,0 +1,32 @@
+{
+  "parent_id": "1968676",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1970685",
+      "author": {
+        "username": "jiangjindong",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">新皮肤：赛尔号</div>",
+      "replies": 0,
+      "created": "21-12-11"
+    },
+    {
+      "kind": "t1",
+      "id": "1970684",
+      "author": {
+        "username": "jiangjindong",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">绷</div>",
+      "replies": 0,
+      "created": "21-12-11"
+    }
+  ]
+}

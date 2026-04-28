@@ -1,0 +1,32 @@
+{
+  "parent_id": "1981922",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1984952",
+      "author": {
+        "username": "shilloya",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">打得贏屋頂上的韓國人嗎？</div>",
+      "replies": 0,
+      "created": "23-04-12"
+    },
+    {
+      "kind": "t1",
+      "id": "1984928",
+      "author": {
+        "username": "HumanGarbage1412",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">怎么回事呢</div>",
+      "replies": 0,
+      "created": "23-04-12"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent_id": "1968701",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1970718",
+      "author": {
+        "username": "jiangjindong",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">这是否有点</div>",
+      "replies": 0,
+      "created": "21-12-25"
+    },
+    {
+      "kind": "t1",
+      "id": "1970717",
+      "author": {
+        "username": "Independent_Tip_3787",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">支的我頭昏眼花。</div>",
+      "replies": 0,
+      "created": "21-12-25"
+    }
+  ]
+}

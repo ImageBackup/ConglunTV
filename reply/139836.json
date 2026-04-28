@@ -1,0 +1,45 @@
+{
+  "parent_id": "139836",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1915519",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 10,
+      "body": "<div class=\"wb-3\">兩位老英雄</div>",
+      "replies": 0,
+      "created": "22-06-20"
+    },
+    {
+      "kind": "t1",
+      "id": "1915715",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 7,
+      "body": "<div class=\"wb-3\">致敬老英雄</div>",
+      "replies": 0,
+      "created": "22-06-20"
+    },
+    {
+      "kind": "t1",
+      "id": "1915738",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 5,
+      "body": "<div class=\"wb-3\">這下九州勇士了</div>",
+      "replies": 0,
+      "created": "22-06-20"
+    }
+  ]
+}

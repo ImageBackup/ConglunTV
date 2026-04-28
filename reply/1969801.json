@@ -1,0 +1,32 @@
+{
+  "parent_id": "1969801",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1976780",
+      "author": {
+        "username": "8964NothingHappened",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">盲猜纸人游戏</div>",
+      "replies": 0,
+      "created": "22-10-04"
+    },
+    {
+      "kind": "t1",
+      "id": "1976779",
+      "author": {
+        "username": "PekingAG6",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">斯塔夫里阿诺斯说的，原始人看到集美就用木棒敲晕拖回去拴上</div>",
+      "replies": 0,
+      "created": "22-10-04"
+    }
+  ]
+}

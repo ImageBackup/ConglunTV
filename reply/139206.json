@@ -1,0 +1,45 @@
+{
+  "parent_id": "139206",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1906075",
+      "author": {
+        "username": "bihiki",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 6,
+      "body": "<div class=\"wb-3\">刀法了得</div>",
+      "replies": 0,
+      "created": "22-06-14"
+    },
+    {
+      "kind": "t1",
+      "id": "1906151",
+      "author": {
+        "username": "creediz",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 4,
+      "body": "<div class=\"wb-3\">传说中的莲花切</div>",
+      "replies": 0,
+      "created": "22-06-14"
+    },
+    {
+      "kind": "t1",
+      "id": "1906087",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 4,
+      "body": "<div class=\"wb-3\">牛大了 西瓜跟纸糊一样</div>",
+      "replies": 0,
+      "created": "22-06-14"
+    }
+  ]
+}

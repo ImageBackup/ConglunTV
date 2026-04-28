@@ -1,0 +1,32 @@
+{
+  "parent_id": "138914",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1902247",
+      "author": {
+        "username": "QuanLangTV_Emergency",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">你好，相同的内容昨天已经有用户发布过了</div>",
+      "replies": 0,
+      "created": "22-06-12"
+    },
+    {
+      "kind": "t1",
+      "id": "1902207",
+      "author": {
+        "username": "Illustrious_Eye6413",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">一样</div>",
+      "replies": 0,
+      "created": "22-06-12"
+    }
+  ]
+}

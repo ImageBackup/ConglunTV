@@ -1,0 +1,32 @@
+{
+  "parent_id": "1924832",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1933982",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">床底下消息？</div>",
+      "replies": 0,
+      "created": "22-07-24"
+    },
+    {
+      "kind": "t1",
+      "id": "1933976",
+      "author": {
+        "username": "Cyamtalk",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">是听床师吗？</div>",
+      "replies": 0,
+      "created": "22-07-24"
+    }
+  ]
+}

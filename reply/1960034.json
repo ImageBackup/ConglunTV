@@ -1,0 +1,32 @@
+{
+  "parent_id": "1960034",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1961041",
+      "author": {
+        "username": "hongbanxian",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">这是啥软件啊</div>",
+      "replies": 0,
+      "created": "22-06-25"
+    },
+    {
+      "kind": "t1",
+      "id": "1960915",
+      "author": {
+        "username": "Shazhi8964",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">这多少沾点断章取义了</div>",
+      "replies": 0,
+      "created": "22-06-10"
+    }
+  ]
+}

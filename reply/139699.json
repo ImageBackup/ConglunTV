@@ -1,0 +1,32 @@
+{
+  "parent_id": "139699",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1914138",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">丁真吗</div>",
+      "replies": 0,
+      "created": "22-06-18"
+    },
+    {
+      "kind": "t1",
+      "id": "1914148",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">震惊麻麻</div>",
+      "replies": 0,
+      "created": "22-06-18"
+    }
+  ]
+}

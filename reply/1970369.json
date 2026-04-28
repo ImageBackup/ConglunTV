@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970369",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1979933",
+      "author": {
+        "username": "Rikkahb",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">這味到哪都一樣</div>",
+      "replies": 0,
+      "created": "22-12-30"
+    },
+    {
+      "kind": "t1",
+      "id": "1979924",
+      "author": {
+        "username": "HamsterIll406",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">集美一家支了</div>",
+      "replies": 0,
+      "created": "22-12-30"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent_id": "138778",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1900247",
+      "author": {
+        "username": "hexflick",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 4,
+      "body": "<div class=\"wb-3\">胶水粘上去的吧</div>",
+      "replies": 0,
+      "created": "22-06-11"
+    },
+    {
+      "kind": "t1",
+      "id": "1900845",
+      "author": {
+        "username": "Hopeful_Tale_1934",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 3,
+      "body": "<div class=\"wb-3\">狗真的吃耗子？</div>",
+      "replies": 0,
+      "created": "22-06-11"
+    }
+  ]
+}

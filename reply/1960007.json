@@ -1,0 +1,32 @@
+{
+  "parent_id": "1960007",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1960897",
+      "author": {
+        "username": "langlangzi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">上上齐心</div>",
+      "replies": 0,
+      "created": "22-06-06"
+    },
+    {
+      "kind": "t1",
+      "id": "1960900",
+      "author": {
+        "username": "Shazhi8964",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">强子不演了 就等摔杯</div>",
+      "replies": 0,
+      "created": "22-06-06"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "parent_id": "1924239",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1927988",
+      "author": {
+        "username": "_Vaporwav3",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">浪人？</div>",
+      "replies": 0,
+      "created": "22-06-28"
+    },
+    {
+      "kind": "t1",
+      "id": "1927986",
+      "author": {
+        "username": "cheesesteakman1",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">新家呢</div>",
+      "replies": 0,
+      "created": "22-06-28"
+    },
+    {
+      "kind": "t1",
+      "id": "1927950",
+      "author": {
+        "username": "laobidaily",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">丁真灌水</div>",
+      "replies": 0,
+      "created": "22-06-27"
+    }
+  ]
+}

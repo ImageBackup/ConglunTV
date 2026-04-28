@@ -1,0 +1,32 @@
+{
+  "parent_id": "1926058",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1948512",
+      "author": {
+        "username": "reddit-Umaru_Chan",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">请选择你的拍摄导师.jpg</div>",
+      "replies": 0,
+      "created": "22-08-15"
+    },
+    {
+      "kind": "t1",
+      "id": "1948001",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">你从哪里学的拍照技术，图片还是竖的</div>",
+      "replies": 0,
+      "created": "22-08-15"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent_id": "1919478",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1919525",
+      "author": {
+        "username": "习近平同志",
+        "uid": "91570"
+      },
+      "author_flair_text": "",
+      "score": 3,
+      "body": "<div class=\"wb-3\">龙袍</div>",
+      "replies": 0,
+      "created": "22-07-15"
+    },
+    {
+      "kind": "t1",
+      "id": "1919530",
+      "author": {
+        "username": "dogg0五入拖拉曼",
+        "uid": "17555"
+      },
+      "author_flair_text": "中日韩都是支",
+      "score": 1,
+      "body": "<div class=\"wb-3\">唐山熊</div>",
+      "replies": 0,
+      "created": "22-07-15"
+    }
+  ]
+}

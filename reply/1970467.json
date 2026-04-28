@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970467",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1980495",
+      "author": {
+        "username": "ZH_Ray",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">什么牌子的橱柜，质量这么好</div>",
+      "replies": 0,
+      "created": "23-02-01"
+    },
+    {
+      "kind": "t1",
+      "id": "1980443",
+      "author": {
+        "username": "Badgummm",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">自动播放阳光灿烂小白马</div>",
+      "replies": 0,
+      "created": "23-01-31"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970438",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1980384",
+      "author": {
+        "username": "calkael",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">崩住 以为一只鸡追着钱</div>",
+      "replies": 0,
+      "created": "23-01-30"
+    },
+    {
+      "kind": "t1",
+      "id": "1980283",
+      "author": {
+        "username": "CSS-SituMufu",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">你是懂鸡妠大眼精的</div>",
+      "replies": 0,
+      "created": "23-01-23"
+    }
+  ]
+}

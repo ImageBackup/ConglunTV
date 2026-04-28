@@ -1,0 +1,32 @@
+{
+  "parent_id": "138884",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1901711",
+      "author": {
+        "username": "little_yellow_rat",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">也可以放开汉字，但只允许使用日文输入法且只允许日体，检测到简体直接永ban</div>",
+      "replies": 0,
+      "created": "22-06-11"
+    },
+    {
+      "kind": "t1",
+      "id": "1901672",
+      "author": {
+        "username": "wazxy",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">待頻道開放漢字後，不敢想象啊，同志們。</div>",
+      "replies": 0,
+      "created": "22-06-11"
+    }
+  ]
+}

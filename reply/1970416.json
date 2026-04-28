@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970416",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1980210",
+      "author": {
+        "username": "punkinzhina",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">堪比鸡纳人</div>",
+      "replies": 0,
+      "created": "23-01-16"
+    },
+    {
+      "kind": "t1",
+      "id": "1980207",
+      "author": {
+        "username": "CSS-SituMufu",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">印友是这样的</div>",
+      "replies": 0,
+      "created": "23-01-16"
+    }
+  ]
+}

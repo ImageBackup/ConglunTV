@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970187",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1979104",
+      "author": {
+        "username": "Independent_Tip_3787",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">別雞巴發廣告了</div>",
+      "replies": 0,
+      "created": "22-11-28"
+    },
+    {
+      "kind": "t1",
+      "id": "1979103",
+      "author": {
+        "username": "Some-Ad-1821",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">日你妈 傻逼没完了</div>",
+      "replies": 0,
+      "created": "22-11-28"
+    }
+  ]
+}

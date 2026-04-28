@@ -1,0 +1,32 @@
+{
+  "parent_id": "1968699",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1970714",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">心梗了</div>",
+      "replies": 0,
+      "created": "21-12-23"
+    },
+    {
+      "kind": "t1",
+      "id": "1970756",
+      "author": {
+        "username": "jzjzwyc",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">有点抽象。</div>",
+      "replies": 0,
+      "created": "22-01-25"
+    }
+  ]
+}

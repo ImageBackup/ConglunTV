@@ -1,0 +1,32 @@
+{
+  "parent_id": "1960199",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1962483",
+      "author": {
+        "username": "liulululu",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">支持</div>",
+      "replies": 0,
+      "created": "22-07-11"
+    },
+    {
+      "kind": "t1",
+      "id": "1962270",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 0,
+      "body": "<div class=\"wb-3\">常人：中国人 异于常人：低于中国人</div>",
+      "replies": 0,
+      "created": "22-07-09"
+    }
+  ]
+}

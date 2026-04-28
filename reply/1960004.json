@@ -1,0 +1,32 @@
+{
+  "parent_id": "1960004",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1960886",
+      "author": {
+        "username": "CarTea34",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">斗我试试</div>",
+      "replies": 0,
+      "created": "22-05-26"
+    },
+    {
+      "kind": "t1",
+      "id": "1960884",
+      "author": {
+        "username": "zakura61",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">斗天斗地斗人斗鱼</div>",
+      "replies": 0,
+      "created": "22-05-23"
+    }
+  ]
+}

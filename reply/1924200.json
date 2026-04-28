@@ -1,0 +1,32 @@
+{
+  "parent_id": "1924200",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1927737",
+      "author": {
+        "username": "bhexa",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">应该是被密集举报了，然后超管关闭发帖功能</div>",
+      "replies": 0,
+      "created": "22-06-25"
+    },
+    {
+      "kind": "t1",
+      "id": "1927674",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">别看你今天。。。</div>",
+      "replies": 0,
+      "created": "22-06-25"
+    }
+  ]
+}

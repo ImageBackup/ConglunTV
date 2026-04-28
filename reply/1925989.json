@@ -1,0 +1,45 @@
+{
+  "parent_id": "1925989",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1947475",
+      "author": {
+        "username": "ThickMyDuck",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">勇者传蛮幽默的</div>",
+      "replies": 0,
+      "created": "22-08-14"
+    },
+    {
+      "kind": "t1",
+      "id": "1947472",
+      "author": {
+        "username": "Weimar19",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">不画黄本能有出息？</div>",
+      "replies": 0,
+      "created": "22-08-14"
+    },
+    {
+      "kind": "t1",
+      "id": "1947363",
+      "author": {
+        "username": "Big_Yellow_Mouse",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">勇者传确实行</div>",
+      "replies": 0,
+      "created": "22-08-14"
+    }
+  ]
+}

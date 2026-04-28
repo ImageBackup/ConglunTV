@@ -1,0 +1,32 @@
+{
+  "parent_id": "1923337",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1923339",
+      "author": {
+        "username": "开香槟",
+        "uid": "90212"
+      },
+      "author_flair_text": "🍾 🥂",
+      "score": 3,
+      "body": "<div class=\"wb-3\">典中典</div>",
+      "replies": 0,
+      "created": "22-08-20"
+    },
+    {
+      "kind": "t1",
+      "id": "1923351",
+      "author": {
+        "username": "nwo",
+        "uid": "83553"
+      },
+      "author_flair_text": "你们对忠国人还是太宽容了。",
+      "score": 1,
+      "body": "<div class=\"wb-3\">戳啦，是极限运动</div>",
+      "replies": 0,
+      "created": "22-08-20"
+    }
+  ]
+}

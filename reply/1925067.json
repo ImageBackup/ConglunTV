@@ -1,0 +1,45 @@
+{
+  "parent_id": "1925067",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1936597",
+      "author": {
+        "username": "Tutulangren",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">曲医生识货</div>",
+      "replies": 0,
+      "created": "22-07-31"
+    },
+    {
+      "kind": "t1",
+      "id": "1936534",
+      "author": {
+        "username": "Goodlilyai",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">笑死了</div>",
+      "replies": 0,
+      "created": "22-07-31"
+    },
+    {
+      "kind": "t1",
+      "id": "1936438",
+      "author": {
+        "username": "Rude_Cardiologist_21",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">草</div>",
+      "replies": 0,
+      "created": "22-07-31"
+    }
+  ]
+}

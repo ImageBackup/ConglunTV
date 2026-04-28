@@ -1,0 +1,32 @@
+{
+  "parent_id": "138241",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1893195",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 7,
+      "body": "<div class=\"wb-3\">开碾！</div>",
+      "replies": 0,
+      "created": "22-06-07"
+    },
+    {
+      "kind": "t1",
+      "id": "1893238",
+      "author": {
+        "username": "Spray_Forsaken",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 3,
+      "body": "<div class=\"wb-3\">两位老英雄</div>",
+      "replies": 0,
+      "created": "22-06-07"
+    }
+  ]
+}

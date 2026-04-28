@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970594",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1981255",
+      "author": {
+        "username": "wuminhui",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">唉，资本</div>",
+      "replies": 0,
+      "created": "23-03-05"
+    },
+    {
+      "kind": "t1",
+      "id": "1981223",
+      "author": {
+        "username": "wodex1nhaoleng1",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">唉，强子能不能好好指导一下小学生</div>",
+      "replies": 0,
+      "created": "23-03-04"
+    }
+  ]
+}

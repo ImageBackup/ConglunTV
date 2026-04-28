@@ -1,0 +1,45 @@
+{
+  "parent_id": "138165",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1892252",
+      "author": {
+        "username": "Rentaro_Taki",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 3,
+      "body": "<div class=\"wb-3\">我的畫都發不出來</div>",
+      "replies": 0,
+      "created": "22-06-06"
+    },
+    {
+      "kind": "t1",
+      "id": "1892285",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">官瘾TV</div>",
+      "replies": 0,
+      "created": "22-06-06"
+    },
+    {
+      "kind": "t1",
+      "id": "1892328",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">我连回复都不显示了？</div>",
+      "replies": 0,
+      "created": "22-06-06"
+    }
+  ]
+}

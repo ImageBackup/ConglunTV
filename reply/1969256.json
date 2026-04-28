@@ -1,0 +1,32 @@
+{
+  "parent_id": "1969256",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1973432",
+      "author": {
+        "username": "Hiroshi8964",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">有点亚洲面孔？东欧人吗</div>",
+      "replies": 0,
+      "created": "22-08-02"
+    },
+    {
+      "kind": "t1",
+      "id": "1973433",
+      "author": {
+        "username": "Hiroshi8964",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">原來如此</div>",
+      "replies": 0,
+      "created": "22-08-02"
+    }
+  ]
+}

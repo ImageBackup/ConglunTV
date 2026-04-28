@@ -1,0 +1,32 @@
+{
+  "parent_id": "1925233",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1938605",
+      "author": {
+        "username": "cjly3",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">打击声好清脆</div>",
+      "replies": 0,
+      "created": "22-08-04"
+    },
+    {
+      "kind": "t1",
+      "id": "1938593",
+      "author": {
+        "username": "fake_cltv_mod_bot",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">爱不爱妈妈？</div>",
+      "replies": 0,
+      "created": "22-08-04"
+    }
+  ]
+}

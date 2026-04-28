@@ -1,0 +1,32 @@
+{
+  "parent_id": "139357",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1908423",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 6,
+      "body": "<div class=\"wb-3\">射了一屏幕</div>",
+      "replies": 0,
+      "created": "22-06-15"
+    },
+    {
+      "kind": "t1",
+      "id": "1908337",
+      "author": {
+        "username": "JZM_BigTiger",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 4,
+      "body": "<div class=\"wb-3\">好可爱呀！?</div>",
+      "replies": 0,
+      "created": "22-06-15"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "parent_id": "139846",
+  "reply_count": 3,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1915497",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 3,
+      "body": "<div class=\"wb-3\">抽象</div>",
+      "replies": 0,
+      "created": "22-06-20"
+    },
+    {
+      "kind": "t1",
+      "id": "1916168",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">中國納粹</div>",
+      "replies": 0,
+      "created": "22-06-21"
+    },
+    {
+      "kind": "t1",
+      "id": "1916089",
+      "author": {
+        "username": "[deleted]",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">什么克隆人战争</div>",
+      "replies": 0,
+      "created": "22-06-20"
+    }
+  ]
+}

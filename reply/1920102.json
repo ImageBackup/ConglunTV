@@ -1,0 +1,32 @@
+{
+  "parent_id": "1920102",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1920264",
+      "author": {
+        "username": "习近平同志",
+        "uid": "91570"
+      },
+      "author_flair_text": "",
+      "score": 1,
+      "body": "<div class=\"wb-3\">雅</div>",
+      "replies": 0,
+      "created": "22-07-27"
+    },
+    {
+      "kind": "t1",
+      "id": "1920231",
+      "author": {
+        "username": "不兴说了",
+        "uid": "92167"
+      },
+      "author_flair_text": "",
+      "score": 1,
+      "body": "<div class=\"wb-3\">绿绿：安拉胡阿克巴！（自爆）</div>",
+      "replies": 0,
+      "created": "22-07-27"
+    }
+  ]
+}

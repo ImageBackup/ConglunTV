@@ -1,0 +1,32 @@
+{
+  "parent_id": "1970622",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1981455",
+      "author": {
+        "username": "michirinnn88",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">地铁</div>",
+      "replies": 0,
+      "created": "23-03-09"
+    },
+    {
+      "kind": "t1",
+      "id": "1981447",
+      "author": {
+        "username": "SolutionFit7306",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">這舉報理由是什麼</div>",
+      "replies": 0,
+      "created": "23-03-09"
+    }
+  ]
+}

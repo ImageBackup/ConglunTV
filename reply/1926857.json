@@ -1,0 +1,32 @@
+{
+  "parent_id": "1926857",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1958081",
+      "author": {
+        "username": "maxozz",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">木制核反应堆？</div>",
+      "replies": 0,
+      "created": "22-08-25"
+    },
+    {
+      "kind": "t1",
+      "id": "1958075",
+      "author": {
+        "username": "laobidaily",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 1,
+      "body": "<div class=\"wb-3\">人造梁家河太阳</div>",
+      "replies": 0,
+      "created": "22-08-25"
+    }
+  ]
+}

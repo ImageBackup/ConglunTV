@@ -1,0 +1,32 @@
+{
+  "parent_id": "138266",
+  "reply_count": 2,
+  "replies": [
+    {
+      "kind": "t1",
+      "id": "1893605",
+      "author": {
+        "username": "xijinping_xi",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">猪叫</div>",
+      "replies": 0,
+      "created": "22-06-07"
+    },
+    {
+      "kind": "t1",
+      "id": "1893370",
+      "author": {
+        "username": "PANZER_04061989",
+        "uid": null
+      },
+      "author_flair_text": null,
+      "score": 2,
+      "body": "<div class=\"wb-3\">紅迪爹別吞了?</div>",
+      "replies": 0,
+      "created": "22-06-07"
+    }
+  ]
+}
